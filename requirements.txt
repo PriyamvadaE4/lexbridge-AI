@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pymupdf
+groq
+sentence-transformers
+faiss-cpu
+numpy
+python-dotenv
+deep-translator
+gtts
+streamlit
+requests
